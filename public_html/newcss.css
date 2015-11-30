@@ -13,6 +13,7 @@ opacity:0.8;
 vertical-align: top;
 }
 #header img{height:150px;
+    opacity:0.8;
 }
 #body {background-image: url("mint.jpg");
        width:100%;
